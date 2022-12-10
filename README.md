@@ -1,1 +1,2 @@
-# learningGithubSuraj is awesome
+# learningGithubSuraj is awesome, suraj added new lines here
+
