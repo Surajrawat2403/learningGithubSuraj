@@ -1,6 +1,6 @@
 # learningGithubSuraj is awesome, suraj added new lines here
 Suraj added a msg to readme
 
-Let us learn something new
+made changes here
 
 merge conflict example
